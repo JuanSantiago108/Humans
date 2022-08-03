@@ -1,0 +1,15 @@
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\Humans\bin\Debug\net6.0\Humans.exe
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\Humans\bin\Debug\net6.0\Humans.deps.json
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\Humans\bin\Debug\net6.0\Humans.runtimeconfig.json
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\Humans\bin\Debug\net6.0\Humans.dll
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\Humans\bin\Debug\net6.0\Humans.pdb
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\Humans\obj\Debug\net6.0\Humans.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\Humans\obj\Debug\net6.0\Humans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\Humans\obj\Debug\net6.0\Humans.AssemblyInfoInputs.cache
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\Humans\obj\Debug\net6.0\Humans.AssemblyInfo.cs
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\Humans\obj\Debug\net6.0\Humans.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\Humans\obj\Debug\net6.0\Humans.dll
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\Humans\obj\Debug\net6.0\refint\Humans.dll
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\Humans\obj\Debug\net6.0\Humans.pdb
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\Humans\obj\Debug\net6.0\Humans.genruntimeconfig.cache
+C:\Users\santi\OneDrive\Desktop\CodingDojoAsig\C#\Language_Fundamentals\weekOne\dayTwo\Humans\obj\Debug\net6.0\ref\Humans.dll
